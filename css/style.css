@@ -1,14 +1,11 @@
 @charset "UTF-8";
 
 /*
-
 Style   : MobApp CSS
 Version : 1.0
 Author  : Surjith S M
 URI     : https://surjithctly.in/
-
 Copyright © All rights Reserved 
-
 */
 
 
@@ -24,7 +21,6 @@ Copyright © All rights Reserved
 7. PRICING
 8. CALL TO ACTION
 9. FOOTER
-
 ------------------------*/
 
 
@@ -55,13 +51,13 @@ h1 {
 h2 {
     font-size: 45px;
     font-weight: 300;
-    color: #633991;
+    color: #18b272;
     letter-spacing: -1px;
     margin-bottom: 1rem;
 }
 
 h3 {
-    color: #633991;
+    color: #ffff00;
     font-size: 33px;
     font-weight: 500;
 }
@@ -69,13 +65,13 @@ h3 {
 h4 {
     font-size: 20px;
     font-weight: 500;
-    color: #633991;
+    color: #0f6b44;
 }
 
 h5 {
     font-size: 28px;
     font-weight: 300;
-    color: #633991;
+    color: #ffff00;
     margin-bottom: 0.7rem;
 }
 
@@ -89,7 +85,7 @@ p.lead {
 }
 
 .text-primary {
-    color: #e38cb7 !important;
+    color: #000000 !important;
 }
 
 .light-font {
@@ -249,7 +245,7 @@ header {
 .tagline {
     font-size: 23px;
     font-weight: 300;
-    color: #e2f200;
+    color: #000000;
     max-width: 800px;
     margin: 0 auto;
 }
