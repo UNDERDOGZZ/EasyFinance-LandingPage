@@ -276,10 +276,13 @@ header {
 ----------------------*/
 
 .gradient-fill:before {
-    color: #fc73b4;
-    background: -moz-linear-gradient(top, #9477b4 0%, #fc73b4 100%);
+    color: #18b272;
+    background: -moz-linear-gradient( 122deg, #18b272 0%, #0f6b44 100%);
+    background: -webkit-linear-gradient(122deg, #18b272 0%, #0f6b44 100%);
+    background: linear-gradient(122deg, #18b272 0%, #0f6b44 100%);
+    /*background: -moz-linear-gradient(top, #9477b4 0%, #fc73b4 100%);
     background: -webkit-linear-gradient(top, #9477b4 0%, #fc73b4 100%);
-    background: linear-gradient(to bottom, #9477b4 0%, #fc73b4 100%);
+    background: linear-gradient(to bottom, #9477b4 0%, #fc73b4 100%); */
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
